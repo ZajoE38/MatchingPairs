@@ -1,0 +1,20 @@
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.exe.config
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.exe
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.pdb
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching_Pairs.Form1.resources
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching_Pairs.Properties.Resources.resources
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csproj.GenerateResource.cache
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csproj.CoreCompileInputs.cache
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.exe
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.pdb
+D:\CS\Training\Udemy\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csprojAssemblyReference.cache
+D:\CS\Projects\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.exe.config
+D:\CS\Projects\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.exe
+D:\CS\Projects\MatchingPairs\Matching Pairs\bin\Debug\Matching Pairs.pdb
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csprojAssemblyReference.cache
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching_Pairs.Form1.resources
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching_Pairs.Properties.Resources.resources
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csproj.GenerateResource.cache
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.csproj.CoreCompileInputs.cache
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.exe
+D:\CS\Projects\MatchingPairs\Matching Pairs\obj\Debug\Matching Pairs.pdb
